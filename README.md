@@ -1,1 +1,4 @@
-This is a tools that show the infomation of the valorant account. You put the account in it and then it will check the info. Only show account that is full captured, otherwise, it wont show in result. Auto create result folder. Remember, to make this tools works, you need to put your own combo file and make sure the combo file is not damage and doesnt have the blank line.
+Cypher tool is a 2-in-1 tool that has a single Minecraft combo checker, and a username checker for Minecraft, GitHub, Cracked.to, Linktree, Instagram, and TikTok. The both can sometimes not work. The combo checker may not work.
+Issues
+
+If there's any issues please report them to my discord: https://discord.gg/JcAvQc797r
